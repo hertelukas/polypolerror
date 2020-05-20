@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    background: rgb(58,36,59);
+    background: -moz-linear-gradient(256deg, rgba(58,36,59,1) 0%, rgba(255,255,255,1) 100%);
+    background: -webkit-linear-gradient(256deg, rgba(58,36,59,1) 0%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(256deg, rgba(58,36,59,1) 0%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3a243b",endColorstr="#ffffff",GradientType=1); 
+}
+
+.jumbotron{
+    margin-top: 30%;
+}
+
+.footer{
+    margin-top: 100%;
+}
+
+a{
+    color: rgba(58,36,59,1);
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgba(58,36,59,1);
+
+}
